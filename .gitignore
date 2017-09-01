@@ -2,6 +2,20 @@
 # macOS likes to put .DS_STORE ever'where
 .DS_Store
 
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# JustCode is a .NET coding add-in
+.JustCode
+
+# TeamCity is a build add-in
+_TeamCity*
+
+# DotCover is a Code Coverage Tool
+*.dotCover
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
